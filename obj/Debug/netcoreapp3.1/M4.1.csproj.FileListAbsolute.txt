@@ -1,0 +1,10 @@
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.exe
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.deps.json
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.runtimeconfig.json
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.runtimeconfig.dev.json
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.dll
+D:\Projects\M4.1\bin\Debug\netcoreapp3.1\M4.1.pdb
+D:\Projects\M4.1\obj\Debug\netcoreapp3.1\M4.1.AssemblyInfoInputs.cache
+D:\Projects\M4.1\obj\Debug\netcoreapp3.1\M4.1.AssemblyInfo.cs
+D:\Projects\M4.1\obj\Debug\netcoreapp3.1\M4.1.dll
+D:\Projects\M4.1\obj\Debug\netcoreapp3.1\M4.1.pdb
